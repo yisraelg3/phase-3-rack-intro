@@ -1,10 +1,10 @@
-# Inspecting The Web With Rack
+# Introduction to Rack
 
-##  Objectives
+##  Learning Goals
 
-1. Explain the mechanics of Rack 
-2. Create a basic web app 
-3. Set up an HTTP web server using a `config.ru` file and the `rackup` command
+- Explain the mechanics of Rack 
+- Create a basic web app 
+- Set up an HTTP web server using a `config.ru` file and the `rackup` command
 
 ## Why Rack? 
 
